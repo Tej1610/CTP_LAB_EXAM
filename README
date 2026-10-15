@@ -9,6 +9,23 @@ Compare their execution time and memory consumption.
 Additional requirement: Explain why generator-based processing is suitable when the
 complete dataset does not need to be held in memory.
 
+2. Objective
+The objectives of this experiment are:
+
+-> Extract ERROR messages from a server log file.
+
+-> Implement the solution using a Python list.
+
+-> Implement the solution using a Python generator.
+
+-> Measure execution time.
+
+-> Measure peak memory consumption.
+
+-> Compare both approaches.
+
+-> Understand the advantages of lazy evaluation.
+
 #simple python code
 
 import time
