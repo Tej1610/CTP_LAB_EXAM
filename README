@@ -9,7 +9,8 @@ Compare their execution time and memory consumption.
 Additional requirement: Explain why generator-based processing is suitable when the
 complete dataset does not need to be held in memory.
 
-2. Objective
+Objective: 
+
 The objectives of this experiment are:
 
 -> Extract ERROR messages from a server log file.
